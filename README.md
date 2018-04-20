@@ -9,4 +9,4 @@ For testing webhook configuration
 
 #### Then reference html
 
-[![Build status](http://brownsmeet.com/build-status.svg)](http://brownsmeet.com/log/)
+[![Build status](http://brownsmeet.com/)](http://brownsmeet.com/log/)
