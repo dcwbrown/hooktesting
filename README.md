@@ -13,4 +13,4 @@ For testing webhook configuration
 
 #### Try an img reference
 
-<img src="http://brownsmeet.com/index.html">Status.
+<object data="http://brownsmeet.com/index.html">Status.</object>
