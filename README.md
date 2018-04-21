@@ -11,6 +11,10 @@ For testing webhook configuration
 
 [![Build status](http://brownsmeet.com/)](http://brownsmeet.com/log/)
 
-#### Try an img reference
+#### splurgle
 
-<embed src="http://brownsmeet.com/index.html">
+<style>p {font-size: 40}</style>
+
+a para
+
+another para
