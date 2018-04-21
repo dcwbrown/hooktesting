@@ -11,6 +11,6 @@ For testing webhook configuration
 
 [![Build status](http://brownsmeet.com/)](http://brownsmeet.com/log/)
 
-#### Try an object reference
+#### Try an img reference
 
-<object source="http://brownsmeet.com/build-status.svg">Status.</object>
+<img source="http://brownsmeet.com/build-status.svg">Status.</img>
