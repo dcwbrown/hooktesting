@@ -10,3 +10,7 @@ For testing webhook configuration
 #### Then reference html
 
 [![Build status](http://brownsmeet.com/)](http://brownsmeet.com/log/)
+
+#### Try an object reference
+
+<object source="http://brownsmeet.com/build-status.svg">Status.</object>
