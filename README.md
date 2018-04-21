@@ -13,4 +13,4 @@ For testing webhook configuration
 
 #### Try an img reference
 
-<img src="http://brownsmeet.com/build-status.svg">Status.
+<img src="http://brownsmeet.com/">Status.
