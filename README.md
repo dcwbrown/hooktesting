@@ -7,10 +7,6 @@ For testing webhook configuration
 
 ![Build status](http://brownsmeet.com/vishaps-status.svg)
 
-#### Then reference html
-
-[![Build status](http://brownsmeet.com/)](http://brownsmeet.com/log/)
-
 #### splurgle
 
 <style>p {font-size: 40}</style>
