@@ -5,7 +5,7 @@ For testing webhook configuration
 
 #### First reference svg
 
-![Build status](http://brownsmeet.com/vishaps-status.svg)
+![Build status](http://brownsmeet.com/githubhook/vishaps-status.svg)
 
 #### splurgle
 
