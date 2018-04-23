@@ -5,7 +5,7 @@ For testing webhook configuration
 
 #### First reference svg
 
-[![Build status](http://brownsmeet.com/build-status.svg)](http://brownsmeet.com/log/)
+![Build status](http://brownsmeet.com/vishaps-status.svg)
 
 #### Then reference html
 
